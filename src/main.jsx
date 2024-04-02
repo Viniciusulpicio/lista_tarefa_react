@@ -4,6 +4,6 @@ import App from './lista_tarefas.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <App />
+    <lista_tarefa />
   </React.StrictMode>,
 )
